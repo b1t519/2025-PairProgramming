@@ -1,5 +1,5 @@
 {
-  "extends": "../../../../../../../nvm/v22.14.0/node_global/node_modules/assemblyscript/std/assembly.json",
+  "extends": "../../../../../../../../nvm/v22.14.0/node_global/node_modules/assemblyscript/std/assembly.json",
   "include": [
     "./**/*.ts"
   ]
